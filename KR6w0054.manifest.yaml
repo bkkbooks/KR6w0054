@@ -19,9 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6w0054_000.yaml, hash: 'sha256:c9aa3f87855b0372b05e96a776af7e532c45150209e6361c94c9352cadbde9e0'}
-  - {seq: 1, filename: KR6w0054_001.yaml, hash: 'sha256:28cf9585c7ab99217706eaef5a01a82626774a2e386247aad9099ba4a51d6226'}
+  - {seq: 1, filename: KR6w0054_001.yaml, hash: 'sha256:e65486448b91529ae94a8dcdfcaf73d5a2a87c05653a762790f76c10eb1a9093'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6w0054_001.markers.yaml, hash: 'sha256:ee8b0b2ad5fc539c6e0f85100cfce2b64ca2f55262d0311c103f739881624306'}
+  - {seq: 0, role: markers, filename: assets/KR6w0054_000.markers.yaml, hash: 'sha256:fe70e359d5113d916790f5b41cca42782ad587427a4cad4c866f36a0d6f1b891'}
+  - {seq: 1, role: markers, filename: assets/KR6w0054_001.markers.yaml, hash: 'sha256:ef550e27aa6984d734d0bb86f52126b0645baa3809bb39a3fefce3a6a1d2c0ef'}
 table_of_contents:
 - ref:
     seq: 1
@@ -33,7 +34,4 @@ table_of_contents:
   label: 結壇散食迴向發󷧔文
   type: juan
   level: 1
-hash: sha256:d800a3dd8f89561dd5587ebeb29fcd231e210862a8c74b96d362ca184656334b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3c698921326a9f7c27700731202f14654636a4682db4f302111c51999498bf61
