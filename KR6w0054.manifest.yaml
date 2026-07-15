@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6w0054/v1
 canonical_location: https://kanripo.org/bkk/KR6w0054/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 結壇散食迴向發願文（首尾殘缺）
   source:
@@ -19,10 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6w0054_000.yaml, hash: 'sha256:c9aa3f87855b0372b05e96a776af7e532c45150209e6361c94c9352cadbde9e0'}
-  - {seq: 1, filename: KR6w0054_001.yaml, hash: 'sha256:e65486448b91529ae94a8dcdfcaf73d5a2a87c05653a762790f76c10eb1a9093'}
+  - {seq: 1, filename: KR6w0054_001.yaml, hash: 'sha256:fccb16c31641662e5276d3df0b047695ecf34cf7d09a79b8aee76799e0842e21'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6w0054_000.markers.yaml, hash: 'sha256:fe70e359d5113d916790f5b41cca42782ad587427a4cad4c866f36a0d6f1b891'}
-  - {seq: 1, role: markers, filename: assets/KR6w0054_001.markers.yaml, hash: 'sha256:ef550e27aa6984d734d0bb86f52126b0645baa3809bb39a3fefce3a6a1d2c0ef'}
+  - {seq: 1, role: markers, filename: assets/KR6w0054_001.markers.yaml, hash: 'sha256:3450a071fbb0e871401b49ef02c248e33a5bdf936e2b59198b30f1e9031cb014'}
 table_of_contents:
 - ref:
     seq: 1
@@ -34,4 +34,7 @@ table_of_contents:
   label: 結壇散食迴向發󷧔文
   type: juan
   level: 1
-hash: sha256:3c698921326a9f7c27700731202f14654636a4682db4f302111c51999498bf61
+hash: sha256:e2032e3d26c05b86725c97afb1e96ef7ae3c266c3d891343be79ee9107843f42
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
